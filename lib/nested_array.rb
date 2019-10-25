@@ -16,8 +16,8 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix(ENET_HOUSE, ENFIELD_TENNIS_ACADEMY)
-  output = [ENET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+def assembled_matrix(arr1, arr2)
+  output = [arr1, arr2]
   return output
   
   
