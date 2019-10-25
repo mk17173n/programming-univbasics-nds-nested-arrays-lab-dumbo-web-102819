@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  output = [arr1, arr2]
+  output = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
   return output
   
   
