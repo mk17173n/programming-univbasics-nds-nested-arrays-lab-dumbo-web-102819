@@ -16,8 +16,9 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
-  return 
+def assembled_matrix(ENET_HOUSE, ENFIELD_TENNIS_ACADEMY)
+  output = [ENET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  return output
   
   
   # Build an array that contains (or, "nests") the residents of The Ennet House
