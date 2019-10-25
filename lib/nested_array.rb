@@ -16,7 +16,7 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix(arr1, arr2)
+def assembled_matrix(, arr2)
   output = [arr1, arr2]
   return output
   
